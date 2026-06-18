@@ -19,3 +19,5 @@ To run this project locally:
 ## Credits
 
 Made by Y7XIFIED
+
+![Preview Demo](preview.gif)

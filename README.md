@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/radiant-ledger.git
-cd radiant-ledger
+git clone https://github.com/Y7XIFIED/Radiant-Ledger.git
+cd Radiant-Ledger
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-radiant-ledger/
+Radiant-Ledger/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json

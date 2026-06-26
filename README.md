@@ -5,7 +5,7 @@
 Step into a world of dynamic motion and fluid interactions. A purely fun and wildly creative web experiment.
 
 ## 🚀 Live Website
-Experience the fully interactive website live here: [https://radiant-ledger-ten.vercel.app](https://radiant-ledger-ten.vercel.app)
+Experience the fully interactive website live here: [Live Demo](https://radiant-ledger-ten.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)

@@ -1,23 +1,13 @@
-# Radiant Ledger
+<h3 align="center"><b>RADIANT LEDGER</b></h3>
 
-Live Deployment: [Radiant Ledger on Vercel](https://radiant-ledger-ten.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Local Development
+Step into a world of dynamic motion and fluid interactions. A purely fun and wildly creative web experiment.
 
-To run this project locally:
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://radiant-ledger-ten.vercel.app](https://radiant-ledger-ten.vercel.app)
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Open `http://localhost:5173` in your browser.
-
-## Credits
-
-Made by Y7XIFIED
-
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
